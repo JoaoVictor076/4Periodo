@@ -1,0 +1,12 @@
+C:\Users\044983\Desktop\H1\H1\API_H1\API_H1.Domain\bin\Debug\net6.0\API_H1.Domain.deps.json
+C:\Users\044983\Desktop\H1\H1\API_H1\API_H1.Domain\bin\Debug\net6.0\API_H1.Domain.dll
+C:\Users\044983\Desktop\H1\H1\API_H1\API_H1.Domain\bin\Debug\net6.0\API_H1.Domain.pdb
+C:\Users\044983\Desktop\H1\H1\API_H1\API_H1.Domain\obj\Debug\net6.0\API_H1.Domain.csproj.AssemblyReference.cache
+C:\Users\044983\Desktop\H1\H1\API_H1\API_H1.Domain\obj\Debug\net6.0\API_H1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\044983\Desktop\H1\H1\API_H1\API_H1.Domain\obj\Debug\net6.0\API_H1.Domain.AssemblyInfoInputs.cache
+C:\Users\044983\Desktop\H1\H1\API_H1\API_H1.Domain\obj\Debug\net6.0\API_H1.Domain.AssemblyInfo.cs
+C:\Users\044983\Desktop\H1\H1\API_H1\API_H1.Domain\obj\Debug\net6.0\API_H1.Domain.csproj.CoreCompileInputs.cache
+C:\Users\044983\Desktop\H1\H1\API_H1\API_H1.Domain\obj\Debug\net6.0\API_H1.Domain.dll
+C:\Users\044983\Desktop\H1\H1\API_H1\API_H1.Domain\obj\Debug\net6.0\refint\API_H1.Domain.dll
+C:\Users\044983\Desktop\H1\H1\API_H1\API_H1.Domain\obj\Debug\net6.0\API_H1.Domain.pdb
+C:\Users\044983\Desktop\H1\H1\API_H1\API_H1.Domain\obj\Debug\net6.0\ref\API_H1.Domain.dll
